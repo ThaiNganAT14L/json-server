@@ -1,0 +1,14 @@
+[
+    {
+        "id" : 1,
+        "userName": "admin",
+        "email": "thaingan",
+        "pass": "123456",
+        "stask": [
+            {"content": "123qweasdasdasdad", "checked": 1}, {"content": "123qweasdasdasdad", "checked": 0}
+        ],
+        "comment":[
+            "123sadasdasda", "456asdadadasdsa"
+        ]
+    }
+]
